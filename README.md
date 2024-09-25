@@ -11,6 +11,14 @@ Bienvenido al proyecto **Template Café**. Esta es una plantilla de blog de cód
 - Sección para publicaciones
 - Integración con Bootstrap
 
+- ## Agradecimientos
+
+Este proyecto utiliza **Bootstrap** v3.3.7.
+
+- **Página oficial**: [Bootstrap](http://getbootstrap.com)
+- **Licencia**: [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
+
+
 ## Instalación
 
 1. Clona el repositorio:
